@@ -50,28 +50,3 @@ This project was developed using the following technologies:
 ## 🌍 Impact
 FleetFlow aims to simplify logistics management by providing a comprehensive solution that connects delivery personnel, recipients, and admins. By enhancing real-time communication and providing a user-friendly interface, FleetFlow significantly improves the efficiency of delivery operations and customer satisfaction.
 
-## ℹ️ Getting Started
-### Requirements
-To run the application, you will need:
-- Git
-- Node.js
-- Yarn
-
-It's highly recommended to use Docker for database management.
-
-### Setting Up Docker
-```bash
-# Install Redis
-docker run --name redis_image -p 6379:6379 -d -t redis:alpine
-
-# Install PostgreSQL
-docker run --name postgres_image -e POSTGRES_PASSWORD=yourPassword -p 5432:5432 -d postgres
-
-# Start Redis
-docker start redis_image
-
-# Start PostgreSQL
-docker start postgres_image
-Backend
-### License
-This project is licensed under the MIT License. See the LICENSE file for more information.
