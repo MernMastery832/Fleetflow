@@ -38,8 +38,7 @@ This project was developed using the following technologies:
 - **Progressive Web App (PWA):** Access the application offline with enhanced performance.
 
 ## 📷 Snapshots
-![Admin Dashboard](link-to-your-admin-dashboard-snapshot)  
-![Mobile App](link-to-your-mobile-app-snapshot)
+![WhatsApp Image 2024-11-01 at 4 57 11 PM (1)](https://github.com/user-attachments/assets/49ea7963-61ce-43c0-b698-7df115d45cc9)
 
 ## 💻 My Contributions
 - Developed the backend API using Node.js and Express.
