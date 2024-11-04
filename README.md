@@ -7,27 +7,29 @@ FleetFlow is a full-stack logistics application designed to streamline the manag
 This project was developed using the following technologies:
 
 ### Backend
-- Node.js
-- Express
-- PostgreSQL
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white) Node.js
+- ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) Express
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) PostgreSQL
+- ![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat&logo=axios&logoColor=white) Axios
+- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white) AWS S3
+- ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ESLint
+- ![Prettier](https://img.shields.io/badge/Prettier-F7B93A?style=flat&logo=prettier&logoColor=black) Prettier
 
 ### Frontend
-- ReactJS
-- Redux
-- Styled-components
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ReactJS
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux
+- ![Styled-components](https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) Styled-components
 
 ### Mobile
-- React Native
-- Redux
-- React Navigation
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black) React Native
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white) Redux
+- ![React Navigation](https://img.shields.io/badge/React%20Navigation-007AFF?style=flat&logo=react&logoColor=white) React Navigation
 
 ### Other Technologies
-- Redux-Saga
-- JWT
-- Axios
-- AWS S3
-- ESLint
-- Prettier
+- ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat&logo=redux-saga&logoColor=white) Redux-Saga
+- ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white) JWT
+- ![Axios](https://img.shields.io/badge/Axios-5A29E3?style=flat&logo=axios&logoColor=white) Axios
+- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazonaws&logoColor=white) AWS S3
 
 ## 📦 Key Features
 - **Admin Dashboard:** Manage recipients, delivery personnel, and deliveries from a centralized web app.
